@@ -51,4 +51,6 @@ int main(){
         printf("Tropas: %d\n", paises[i].tropas);
     };
 
+    return 0;
+
 }
